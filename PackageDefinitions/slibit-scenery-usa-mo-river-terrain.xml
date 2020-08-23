@@ -1,0 +1,39 @@
+<AssetPackage Name="slibit-scenery-usa-mo-river-terrain" ReleaseNotes="PackageDefinitions\slibit-scenery-usa-mo-river-terrain\ReleaseNotes.xml" Version="0.1.0">
+	<ItemSettings>
+		<ContentType>SCENERY</ContentType>
+		<Title>USA MO - Missouri River Terrain Fix</Title>
+		<Manufacturer/>
+		<Creator>Slibit</Creator>
+	</ItemSettings>
+	<Flags>
+		<VisibleInStore>false</VisibleInStore>
+		<CanBeReferenced>false</CanBeReferenced>
+	</Flags>
+	<AssetGroups>
+		<AssetGroup Name="ContentInfo">
+			<Type>ContentInfo</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageDefinitions\slibit-scenery-usa-mo-river-terrain\ContentInfo\</AssetDir>
+			<OutputDir>ContentInfo\slibit-scenery-usa-mo-river-terrain\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="MarketplaceData">
+			<Type>MarketplaceData</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageDefinitions\slibit-scenery-usa-mo-river-terrain\MarketplaceData\</AssetDir>
+			<OutputDir>MarketplaceData\slibit-scenery-usa-mo-river-terrain\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="missouri-river">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>scene\</AssetDir>
+			<OutputDir>scenery\</OutputDir>
+		</AssetGroup>
+	</AssetGroups>
+</AssetPackage>
+

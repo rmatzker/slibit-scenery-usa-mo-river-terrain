@@ -1,0 +1,8 @@
+<Project Version="2" Name="USA-MO-Missouri-River" FolderName="Packages">
+	<OutputDirectory>.</OutputDirectory>
+	<TemporaryOutputDirectory>_PackageInt</TemporaryOutputDirectory>
+	<Packages>
+		<Package>PackageDefinitions\slibit-scenery-usa-mo-river-terrain.xml</Package>
+	</Packages>
+</Project>
+
