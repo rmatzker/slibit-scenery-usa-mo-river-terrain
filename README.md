@@ -1,6 +1,8 @@
 # MSFS 2020 Missouri River Terrain Height Fix
 Terrain fixes for Microsoft Flight Simulator 2020 for the Missouri River in Missouri, United States
 
+# This mod is no longer needed - MSFS updated terrain issues in the November update.  Please remove this mod from your Community folder and thanks for your support!
+
 ![Screenshot](images/cover.png)
 
 ## Let's bring it down a notch, shall we?
